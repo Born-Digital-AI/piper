@@ -1,3 +1,3 @@
-piper-phonemize~=1.1.0
-onnxruntime-gpu>=1.11.0,<2
+piper-phonemize
+onnxruntime-gpu
 numpy<2.0.0
